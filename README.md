@@ -8,3 +8,7 @@ This was written using Code Composer Studio, and that IDE's built in compiling/d
 - Workout `msp430-gcc` and `mspdebug` kinks
 - Update (rewrite) for 2016 car
   - Write tests first!
+
+## Versioning Scheme
+
+`year`.`major`.`minor`.`relese`
