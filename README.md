@@ -11,4 +11,4 @@ This was written using Code Composer Studio, and that IDE's built in compiling/d
 
 ## Versioning Scheme
 
-`year`.`major`.`minor`.`relese`
+`year`.`major`.`minor`.`release`
